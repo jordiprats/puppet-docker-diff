@@ -6,4 +6,5 @@ junit
 log
 spec/fixtures/
 Gemfile.lock
-.swp
+*.swp
+*.swo
