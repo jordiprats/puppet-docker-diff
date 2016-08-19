@@ -1,0 +1,1 @@
+# puppet-docker-diff
